@@ -1,3 +1,5 @@
+Zomato_Sales_Analysis_sql
+
 This project includes 16 real-world business questions solved using a Zomato-style food delivery database.
 As a fresher data analyst, I built this project to practice advanced SQL concepts and analyze real-life food delivery operations involving customers, restaurants, delivery partners, orders, and payments.
 

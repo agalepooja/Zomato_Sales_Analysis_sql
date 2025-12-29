@@ -6,7 +6,7 @@ As a **fresher data analyst**, this project was built to practice **advanced SQL
 
 The project demonstrates strong analytical thinking and the ability to convert raw transactional data into meaningful business insights.
 
----
+
 
 ##  Objectives
 ● Strengthen advanced SQL skills through real-world scenarios  
@@ -14,7 +14,6 @@ The project demonstrates strong analytical thinking and the ability to convert r
 ● Apply analytical SQL to solve business-driven questions  
 ● Showcase SQL expertise for entry-level data analyst roles  
 
----
 
 ##  Skills & Concepts Used
 ● SQL (MySQL / SQL Server compatible)  
@@ -26,7 +25,7 @@ The project demonstrates strong analytical thinking and the ability to convert r
 ● CTEs (WITH clause)  
 ● Business logic and data analysis  
 
----
+
 
 ##  Key Analyses in This Project
 ● Top 3 customers with the highest number of orders  
@@ -46,6 +45,5 @@ The project demonstrates strong analytical thinking and the ability to convert r
 ● Total revenue by payment type  
 ● Least revenue food item (ordered at least 10 times)  
 
----
 
 

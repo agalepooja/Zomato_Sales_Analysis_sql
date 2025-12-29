@@ -1,4 +1,4 @@
-#  Zomato Sales Analysis (SQL Project)
+#  Zomato Sales Analysis 
 
 ##  Project Overview
 This project contains **16 real-world business questions** solved using a **Zomato-style food delivery database**.  
